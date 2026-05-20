@@ -5,4 +5,4 @@
 
 
 
-推荐使用py3.9版本，所有需求包版本根据requirement下载。
+推荐使用py3.9版本，所有需求包版本根据requirement .txt下载。
